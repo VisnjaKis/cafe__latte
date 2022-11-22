@@ -1,0 +1,5 @@
+User-agent:*
+Disallow:/img/menu-item-8.jpg
+Disalow:/img/menu-item-3.jpg
+
+sitemap: https://visnjakis.github.io/cafe__latte/sitemap.xml
